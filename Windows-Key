@@ -1,3 +1,5 @@
 wmic path softwarelicensingservice get oa3xoriginalproductkey
 
 slmgr /xpr
+
+slmgr.vbs /dli
